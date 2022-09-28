@@ -14,7 +14,7 @@ LIGHT='\033[0;37m'
 MYIP=$(wget -qO- ipinfo.io/ip);
 echo "Checking VPS"
 # Link Hosting Kalian
-akcell="raw.githubusercontent.com/akcelluler/xraymulti/main/menu"
+akcell="raw.githubusercontent.com/Zeastore/xraymulti/main/menu"
 
 apt install rclone -y
 printf "q\n" | rclone config
