@@ -27,15 +27,15 @@ mkdir /var/lib/crot;
 echo "IP=" >> /var/lib/crot/ipvps.conf
 cd
 #install tools/alat
-wget https://raw.githubusercontent.com/akcelluler/xraymulti/main/install-tools.sh && chmod +x install-tools.sh && ./install-tools.sh
+wget https://raw.githubusercontent.com/Zeastore/xraymulti/main/install-tools.sh && chmod +x install-tools.sh && ./install-tools.sh
 #Instal Xray
-wget https://raw.githubusercontent.com/akcelluler/xraymulti/main/install-xray.sh && chmod +x install-xray.sh && ./install-xray.sh
+wget https://raw.githubusercontent.com/Zeastore/xraymulti/main/install-xray.sh && chmod +x install-xray.sh && ./install-xray.sh
 #install xmenu
-wget https://raw.githubusercontent.com/akcelluler/xraymulti/main/menu/updatedll.sh && chmod +x updatedll.sh && ./updatedll.sh
+wget https://raw.githubusercontent.com/Zeastore/xraymulti/main/menu/updatedll.sh && chmod +x updatedll.sh && ./updatedll.sh
 #istall set br
-wget https://raw.githubusercontent.com/akcelluler/xraymulti/main/menu/set-br.sh && chmod +x set-br.sh && ./set-br.sh
+wget https://raw.githubusercontent.com/Zeastore/xraymulti/main/menu/set-br.sh && chmod +x set-br.sh && ./set-br.sh
 #install certificate
-wget https://raw.githubusercontent.com/akcelluler/xraymulti/main/menu/fix/cert.sh && chmod +x cert.sh && ./cert.sh
+wget https://raw.githubusercontent.com/Zeastore/xraymulti/main/menu/fix/cert.sh && chmod +x cert.sh && ./cert.sh
 #SELESAI
 echo " "
 echo "Installation has been completed!!"echo " "
