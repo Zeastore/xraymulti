@@ -80,7 +80,7 @@ menu-config
 ;;
 10)
 clear
-speedtest
+speedtest_cli.py
 ;;
 11)
 clear
