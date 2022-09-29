@@ -14,7 +14,7 @@ LIGHT='\033[0;37m'
 MYIP=$(wget -qO- ipinfo.io/ip);
 # ==================================================
 # Link Hosting Kalian
-akcell="raw.githubusercontent.com/akcelluler/xraymulti/main/data"
+akcell="raw.githubusercontent.com/Zeastore/xraymulti/main/data"
 
 #
 cd
