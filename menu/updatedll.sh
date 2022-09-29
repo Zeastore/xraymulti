@@ -21,7 +21,7 @@ rm -rf updatedll
 rm -r updatedll
 
 #link hosting
-akcell="raw.githubusercontent.com/akcelluler/xraymulti/main/menu"
+akcell="raw.githubusercontent.com/Zeastore/xraymulti/main/menu"
 
 # download
 cd /usr/bin
