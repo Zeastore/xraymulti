@@ -2,7 +2,7 @@
 # ==========================================
 cd
 rm -r updatedll
-wget -O updatedll "https://raw.githubusercontent.com/akcelluler/xraymulti/main/menu/updatedll.sh"
+wget -O updatedll "https://raw.githubusercontent.com/Zeastore/xraymulti/main/menu/updatedll.sh"
 rm -rf updatedll
 
 # hapus
