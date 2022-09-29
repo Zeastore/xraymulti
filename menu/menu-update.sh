@@ -17,6 +17,7 @@ echo -e "System Uptime   :  $uphours $upminutes"
 fi
 echo -e "IP-VPS          :  $IPVPS"
 echo -e "ISP-VPS         :  $ISPVPS"
+echo -e "DOMAIN          :  $IP
 echo "╔═════════════════════════════════════════════════════════════════╗"
 echo "║                       ┃ Script By Akcell ┃                      ║" 
 echo "╚═════════════════════════════════════════════════════════════════╝"
