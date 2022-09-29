@@ -25,7 +25,7 @@ IZIN=$(wget -qO- ipinfo.io/ip);
 clear
 mkdir /var/lib/crot;
 echo "IP=" >> /var/lib/crot/ipvps.conf
-wget https://raw.githubusercontent.com/Zeastore/gaspoll/main/cf.sh && chmod +x cf.sh && ./cf.sh
+wget https://raw.githubusercontent.com/Zeastore/xraymulti/main/menu/domain/auto-pointing.sh && chmod +x auto-pointing.sh && ./auto-pointing.sh
 cd
 #install tools/alat
 wget https://raw.githubusercontent.com/Zeastore/xraymulti/main/install-tools.sh && chmod +x install-tools.sh && ./install-tools.sh
